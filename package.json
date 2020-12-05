@@ -1,0 +1,23 @@
+{
+  "name": "@rbb/hello-world-rbb-npm",
+  "version": "1.0.0",
+  "description": "Just getting going",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whyld4900/hello-world-rbb-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whyld4900/hello-world-rbb-npm/issues"
+  },
+  "homepage": "https://github.com/whyld4900/hello-world-rbb-npm#readme",
+  "dependencies": {
+    "ts-node": "^9.1.0",
+    "typescript": "^4.1.2"
+  }
+}
